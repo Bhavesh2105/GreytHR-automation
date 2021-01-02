@@ -1,4 +1,6 @@
 # GreytHR-automation
+This program requires **NodeJS** to run.
+To download [click](https://nodejs.org/dist/v14.15.3/node-v14.15.3-x64.msi)
 
 ## HOW TO USE ?
 
