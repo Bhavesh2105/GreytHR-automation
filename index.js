@@ -109,7 +109,7 @@ var signIn = schedule.scheduleJob({ hour: 09, minute: 00 }, async () => {
     }
   );
 });
-var signOut = schedule.scheduleJob({ hour: 07, minute: 00 }, async () => {
+var signOut = schedule.scheduleJob({ hour: 19, minute: 00 }, async () => {
   let inner = await automate();
   fs.appendFile(
     "log.txt",
